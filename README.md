@@ -2,7 +2,9 @@
 
 .config file used in custom build, and corresponding factory.bin and sysupgrade.bin files
 
-2021/10/21 update zte-8820s to v21.02.1 Passw0rd, frpc, aria2, samba4 etc.
+2022/02/24 update zte-8820s to v21.02.2 Passw0rd, frpc, aria2, samba4 etc. Argon theme (not enabled by default). Added gpio reset for mt76x2e
+
+2022/01/21 update zte-8820s to v21.02.1 Passw0rd, frpc, aria2, samba4 etc.
 
 2022/02/09 add thunder timecloud (XiaZaiBao)  Passw0rd, frpc, aria2, samba4, hd-idle, sd card support, ntfs & exfat driver
 
