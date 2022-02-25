@@ -2,6 +2,8 @@
 
 .config file used in custom build, and corresponding factory.bin and sysupgrade.bin files
 
+2022/02/25 update zte-8820s to WIFI WPA2/WPA3 personal encryption with Passw0rd, change timezone to Asia/Shanghai, change NTP Server address
+
 2022/02/24 update zte-8820s to v21.02.2 Passw0rd, frpc, aria2, samba4 etc. Argon theme (not enabled by default). Added gpio reset for mt76x2e
 
 2022/01/21 update zte-8820s to v21.02.1 Passw0rd, frpc, aria2, samba4 etc.
