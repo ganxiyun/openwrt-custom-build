@@ -2,6 +2,8 @@
 
 .config file used in custom build, and corresponding factory.bin and sysupgrade.bin files
 
+2022/06/13 Add zte-8820s to v21.02.3
+
 2022/03/30 add zte-8820s with limited support
 
 2022/02/25 update zte-8820s to WIFI WPA2/WPA3 personal encryption with Passw0rd, change timezone to Asia/Shanghai, change NTP Server address
